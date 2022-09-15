@@ -114,13 +114,12 @@ article img{width: 100%;}
 .pcslide {display: none;}
 .con{
   width:100%;
-  margin: 0px auto;
-  max-width: 520px;
+ 
   display:grid;
   padding:0px 1%;
   grid-gap: 5px;
   box-sizing: border-box;
-  grid-template-columns: auto;
+  grid-template-columns: 100%;
   grid-template-areas:
   "item"
   "brand"
