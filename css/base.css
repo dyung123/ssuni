@@ -15,7 +15,7 @@ a{
 }
 input[type='checkbox']{display:none;}
 
-.slide > h2, .new_item > h2, .brand > h2, .ad > h2
+.slide > h2, .new_item > h2, .brand > h2, .ad > h2,
 .store>h2 {display : none;}
 .brand_banner{
   background-image: url('../images/mbn0202.png');
